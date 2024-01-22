@@ -1,0 +1,28 @@
+body{
+    font-size: 12px;
+    margin-left: 36%;
+    margin-right: 36%;
+}
+.page{
+    margin-left: 50%;
+}
+.p3 p{
+    text-align: center;
+    font-size: 14px solid;  
+}
+.subtitle{
+    font-size: 14px;
+}
+
+
+table {
+    width: 100%;
+      border-collapse: collapse;
+      margin-top: 1px;
+        font-size: 10px;
+    }
+
+    th{
+      border: 1px solid #333;
+      padding: 3px;
+    }
